@@ -1,0 +1,19 @@
+Configure GitHub for the first time:
+
+git config --global user.name "rajeevahobala"
+git config --global user.email "rajeevahobalaa@gmail.com"
+git config --global color.ui auto
+
+Mandatory commands
+
+git init --> initialize the folder where the files are present
+git remote add origin https://github.com/rajeevahobala/tutedude.git --> make a connect to github
+
+git pull origin main ->> To pull the contents from github to local repr
+git status ->> to check the status of the files in the local repo
+git add . --> to add the files from local repo into the github
+git commit -m "commit message" ->> to commit to Github
+git push --> to push from local to github
+
+
+
