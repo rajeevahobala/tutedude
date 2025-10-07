@@ -1,7 +1,7 @@
 # Basic Python Concepts:
 
 # Task 1: Perform Basic Mathematical Operations
-'''
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
@@ -13,7 +13,7 @@ Multiplication = num1 * num2
 print("multiplication:", Multiplication)
 Division = num1/num2
 print("division: ",Division)
-'''
+
 
 # Task 2: Create a Personalized Greeting
 
